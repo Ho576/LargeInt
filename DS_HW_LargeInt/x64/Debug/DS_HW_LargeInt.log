@@ -1,0 +1,3 @@
+﻿  LargeInteger.cpp
+C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الاول\Data Structiure تركيب البيانات\VS codes\DS_HW_LargeInt\DS_HW_LargeInt\LargeInteger.cpp(41,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DS_HW_LargeInt.vcxproj -> C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الاول\Data Structiure تركيب البيانات\VS codes\DS_HW_LargeInt\x64\Debug\DS_HW_LargeInt.exe
